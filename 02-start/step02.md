@@ -1,7 +1,7 @@
 
 ## Step 02 -  Typescript auto reload by Node JS
  
- npm init -y. -> ask no question, the legacy way
+ npm init -y. -> ask no question, the legacy way, default is index.htmlß
 
 # Install Node Module package for dev https://www.npmjs.com/package/lite-server
 
